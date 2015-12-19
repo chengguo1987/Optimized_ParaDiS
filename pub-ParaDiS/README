@@ -1,5 +1,9 @@
 
-
+    ParaDiS is an open-source software, developed by LLNL. I made
+    some improvements using Intel AVX intrinsic functions. Make sure
+    your CPU support Intel AVX instruction sets (Intel Sandy Bridge or
+    later). 
+    
     For general information on compiling, configuring, and running
     ParaDiS simulations, refer to the ParaDiS User's Guide for the
     current version located at
