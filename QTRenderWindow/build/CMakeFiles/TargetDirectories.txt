@@ -1,4 +1,0 @@
-/Users/chengguo/Desktop/Small_tests/vtk_qt/QTRenderWindow/build/CMakeFiles/edit_cache.dir
-/Users/chengguo/Desktop/Small_tests/vtk_qt/QTRenderWindow/build/CMakeFiles/rebuild_cache.dir
-/Users/chengguo/Desktop/Small_tests/vtk_qt/QTRenderWindow/build/CMakeFiles/RenderWindowUISingleInheritance.dir
-/Users/chengguo/Desktop/Small_tests/vtk_qt/QTRenderWindow/build/CMakeFiles/RenderWindowUISingleInheritance_automoc.dir
